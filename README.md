@@ -26,7 +26,7 @@ This Python application uses Optical Character Recognition (OCR) to extract text
 
 * Python 3.6 or higher
 * Tesseract OCR engine (installed separately on the system)
-* নিম্নলিখিত Python kütüphaneleri:
+* Python kütüphaneleri:
     * Pillow (`PIL`)
     * pytesseract
     * streamlit
