@@ -1,0 +1,6 @@
+Pillow
+pytesseract
+streamlit
+os
+google.generativeai
+dotenv
